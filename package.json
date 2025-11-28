@@ -15,13 +15,11 @@
   "license": "MIT",
   "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
   "scripts": {
-    "test": "bun test",
+    "clean": "rm -rf .cache public",
+    "build": "npm run clean && gatsby build",
+    "start": "gatsby develop",
     "serve": "gatsby serve",
-    "release": "semantic-release",
-    "clean": "rimraf .cache public",
-    "build": "bun run clean && gatsby build",
-    "start": "bun run clean && gatsby develop",
-    "version": "bun ./internal/scripts/up-version.mjs"
+    "release": "semantic-release"
   },
   "dependencies": {
     "@alxshelepenok/diesel": "1.0.1365",
