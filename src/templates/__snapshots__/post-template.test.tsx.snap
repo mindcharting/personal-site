@@ -13,7 +13,7 @@ exports[`PostTemplate renders correctly 1`] = `
             {
               "$$typeof": Symbol(react.test.json),
               "children": [
-                "All Articles",
+                "All Essays",
               ],
               "props": {
                 "aria-current": "page",

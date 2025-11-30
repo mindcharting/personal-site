@@ -1,14 +1,14 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "description": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
-  "copyright": "© All rights reserved.",
+  "title": "MindCharting",
+  "url": "https://mindcharting.com",
+  "description": "I can't help but write. It's the only way I grok.",
+  "copyright": "© 2025 MindCharting.com. All rights reserved.",
   "googleAnalyticsId": "G-MSQGQG14PK",
   "pathPrefix": "/",
   "feedLimit": 4,
   "menu": [
     {
-      "title": "Articles",
+      "title": "Essays",
       "url": "/"
     },
     {
@@ -21,18 +21,22 @@
     }
   ],
   "author": {
-    "title": "John Doe",
+    "title": "Gautham",
     "photo": "/logo.png",
-    "description": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "description": "I can't help but write. It's the only way I grok.",
     "contacts": [
-      {
-        "name": "github",
-        "contact": "alxshelepenok"
-      },
-      {
-        "name": "linkedin",
-        "contact": "alxshelepenok"
-      }
-    ]
+  {
+    "name": "x",
+    "contact": "mindcharting"
+  },
+  {
+    "name": "email",
+    "contact": "gauthamail@gmail.com"
+  },
+  {
+    "name": "linkedin",
+    "contact": "mindcharting"
+  }
+]
   }
 }

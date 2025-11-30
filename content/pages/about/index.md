@@ -4,10 +4,24 @@ template: "page"
 socialImage: "./image.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Very reluctant, but puppet nevertheless. Severing one string at a time, since 1987.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./image.jpg)
+Maker first. I love making beautiful things, especially things that didn't exist in this world before I was born.
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
+#### What I'm doing now
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+For the moneys, I run software companies focused on the US market..
+
+With the time I buy with that money, I teach. I love learning and teaching. I co-run an [Education studio](https://theseconddesign.com/) for that purpose.
+
+### Previously
+
+In 2015, I co-founded an online student startup incubator, [Startup Village Collective, SV.CO](https://yourstory.com/2016/07/startup-village).
+
+We failed to make the venture sustainable, but we had a lot of fun attempting something grand.
+
+In 2019, we pivoted and rebranded Startup Village Collective into an ed-tech company called [Pupilfirst](https://www.pupilfirst.org/).
+
+### That's me back in 2017, in Bhutan
+
+![Bhutan](./image.jpg)
