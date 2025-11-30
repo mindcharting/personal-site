@@ -10,7 +10,7 @@ Maker first. I love making beautiful things, especially things that didn't exist
 
 #### What I'm doing now
 
-For the moneys, I run software companies focused on the US market..
+For the moneys, I run software companies focused on the US market.
 
 With the time I buy with that money, I teach. I love learning and teaching. I co-run an [Education studio](https://theseconddesign.com/) for that purpose.
 
