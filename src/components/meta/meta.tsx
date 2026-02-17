@@ -4,9 +4,10 @@ interface MetaProps {
   description: string;
   image?: string;
   title: string;
+  url?: string;
 }
 
-const Meta: FC<MetaProps> = ({ description, title, image }) => (
+const Meta: FC<MetaProps> = ({ description, title, image, url }) => (
   <>
     <title>{title}</title>
     <meta name="description" content={description} />
@@ -16,6 +17,7 @@ const Meta: FC<MetaProps> = ({ description, title, image }) => (
     <meta name="og:title" content={title} />
     <meta name="og:type" content="website" />
     <meta name="og:description" content={description} />
+    {url && <meta property="og:url" content={url} />}
 
     {image ? (
       <>

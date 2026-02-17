@@ -46,7 +46,7 @@ export const query = graphql`
   }
 `;
 
-export const Head: FC<PageTemplateProps> = ({ data }) => {
+export const Head: FC<PageTemplateProps & { location: { pathname: string } }> = ({ data, location }) => {
   const { title, description, url } = useSiteMetadata();
 
   const {
@@ -63,6 +63,7 @@ export const Head: FC<PageTemplateProps> = ({ data }) => {
       title={`${pageTitle} - ${title}`}
       description={pageDescription}
       image={image}
+      url={url + location.pathname}
     />
   );
 };

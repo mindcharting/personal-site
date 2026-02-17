@@ -31,11 +31,11 @@ const CategoriesTemplate: FC = () => {
   );
 };
 
-export const Head: FC = () => {
-  const { title, description } = useSiteMetadata();
+export const Head: FC<{ location: { pathname: string } }> = ({ location }) => {
+  const { title, description, url } = useSiteMetadata();
   const pageTitle = `Categories - ${title}`;
 
-  return <Meta title={pageTitle} description={description} />;
+  return <Meta title={pageTitle} description={description} url={url + location.pathname} />;
 };
 
 export default CategoriesTemplate;

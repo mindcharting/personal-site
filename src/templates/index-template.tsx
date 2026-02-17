@@ -68,14 +68,14 @@ export const query = graphql`
   }
 `;
 
-export const Head: FC<IndexTemplateProps> = ({ pageContext }) => {
-  const { title, description } = useSiteMetadata();
+export const Head: FC<IndexTemplateProps & { location: { pathname: string } }> = ({ pageContext, location }) => {
+  const { title, description, url } = useSiteMetadata();
   const {
     pagination: { currentPage: page },
   } = pageContext;
   const pageTitle = page > 0 ? `Posts - Page ${page} - ${title}` : title;
 
-  return <Meta title={pageTitle} description={description} />;
+  return <Meta title={pageTitle} description={description} url={url + location.pathname} />;
 };
 
 export default IndexTemplate;

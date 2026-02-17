@@ -74,8 +74,8 @@ export const query = graphql`
   }
 `;
 
-export const Head: FC<CategoryTemplateProps> = ({ pageContext }) => {
-  const { title, description } = useSiteMetadata();
+export const Head: FC<CategoryTemplateProps & { location: { pathname: string } }> = ({ pageContext, location }) => {
+  const { title, description, url } = useSiteMetadata();
 
   const {
     group,
@@ -85,7 +85,7 @@ export const Head: FC<CategoryTemplateProps> = ({ pageContext }) => {
   const pageTitle =
     page > 0 ? `${group} - Page ${page} - ${title}` : `${group} - ${title}`;
 
-  return <Meta title={pageTitle} description={description} />;
+  return <Meta title={pageTitle} description={description} url={url + location.pathname} />;
 };
 
 export default CategoryTemplate;

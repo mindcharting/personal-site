@@ -44,7 +44,7 @@ export const query = graphql`
   }
 `;
 
-export const Head: FC<PostTemplateProps> = ({ data }) => {
+export const Head: FC<PostTemplateProps & { location: { pathname: string } }> = ({ data, location }) => {
   const { title, description, url } = useSiteMetadata();
 
   const {
@@ -62,6 +62,7 @@ export const Head: FC<PostTemplateProps> = ({ data }) => {
       title={`${postTitle} - ${title}`}
       description={postDescription}
       image={image}
+      url={url + location.pathname}
     />
   );
 };
