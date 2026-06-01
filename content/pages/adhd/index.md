@@ -48,7 +48,7 @@ I got diagnosed with ADHD in January 2023, at age 36.
 
 The diagnosis handed me a body of knowledge that has done more to change my life than anything else. Understanding and building systems around things like low working memory, executive dysfunction, ADHD paralysis, and emotional dysregulation has changed how I operate at a fundamental level.
 
-I can explain me to myself now. When you make better sense to yourself, the world starts making better sense too.
+I understand myself better now. When you make better sense to yourself, the world starts making better sense too.
 
 I write long-form about this experience on Substack.
 
