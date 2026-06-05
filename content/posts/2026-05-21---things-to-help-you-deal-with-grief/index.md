@@ -157,8 +157,4 @@ Your grief is yours, not society's. Don't let society decide what you can or can
 
 - [SoulPrinting by Shalaka Kulkarni](https://shalakulkarni.substack.com/p/soulprinting): "Grief has that odd texture, they say it is love with nowhere to go"
 - "What is grief, but love persevering?" (MCU)
-- How to comfort someone going through grief:
-
-<div style="max-width: 320px;">
-<blockquote class="twitter-tweet"><a href="https://x.com/octo_tak0o0/status/1947657612767433124"></a></blockquote>
-</div>
+- [How to comfort someone (for those who don't know how)](https://x.com/octo_tak0o0/status/1947657612767433124?s=46)
