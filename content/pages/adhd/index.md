@@ -46,7 +46,13 @@ slug: "/adhd"
 
 I got diagnosed with ADHD in January 2023, at age 36.
 
-The diagnosis handed me a body of knowledge that has done more to change my life than anything else. Understanding and building systems around ADHD realities like low working memory, executive dysfunction, ADHD paralysis, and emotional dysregulation has been nothing short of life changing.
+The diagnosis handed me a body of knowledge that has done more to change my life than anything else. Understanding and building systems around the ADHD realities that show up most strongly in me has been nothing short of life changing:
+
+- Low working memory
+- Executive dysfunction
+- ADHD paralysis
+- Emotional dysregulation
+- [Identity collapse](https://adhdlatediag.substack.com/p/lack-of-identity-collapse-in-adhd)
 
 I understand myself better now. When you make better sense to yourself, the world starts making better sense too.
 
