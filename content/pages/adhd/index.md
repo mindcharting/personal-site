@@ -52,7 +52,7 @@ The diagnosis handed me a body of knowledge that has done more to change my life
 - Executive dysfunction
 - ADHD paralysis
 - Emotional dysregulation
-- [Identity collapse](https://adhdlatediag.substack.com/p/lack-of-identity-collapse-in-adhd)
+- [Lack of identity collapse](https://adhdlatediag.substack.com/p/lack-of-identity-collapse-in-adhd)
 - [Alexithymia](https://www.instagram.com/reel/DZu-30AzzXG/?igsh=MWJvMzBqcHAyZmx4MQ==)
 
 I understand myself better now. When you make better sense to yourself, the world starts making better sense too.
