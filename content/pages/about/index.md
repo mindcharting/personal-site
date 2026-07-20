@@ -19,7 +19,7 @@ socialImage: "./image.jpg"
 
 Reluctant puppet. Severing one string at a time, since 1987.
 
-Maker first. I love creating things that had no reason to exist until I made them.
+Here to make beautiful things that had no reason to exist before I made them.
 
 ### What I'm doing now
 
